@@ -1,0 +1,180 @@
+{
+    "daymode": {
+        "bgImg": "./assets/day.png",
+        "bgColor": "rgba(255, 255, 255, 0.94)",
+        "color": "black"
+    },
+    "nightmode": {
+        "bgImg": "./assets/night.jpg",
+        "bgColor": "rgba(74, 73, 73, 0.66)",
+        "color": "white"
+    },
+    "name": "Vishal Chaturvedi",
+    "pic": "./assets/Vishal.jpg",
+    "designation": "Senior Systems Engineer",
+    "company": "Infosys Ltd.",
+    "currentLoc": "Bangalore",
+    "linkedin": "https://www.linkedin.com/in/vishal-chaturvedi-916b1478/",
+    "facebook": "https://www.facebook.com/chaturvedi.vishal4",
+    "github": "https://github.com/vishalchaturvedi50/",
+    "abt_sec": {
+        "header": "About Me",
+        "list": [
+            "I am an enthusiastic Full stack web developer working primarily on Front End technologies currently working with Infosys Labs and I'm based out of Bangalore. With over 3 years of experience in a Product development environment, I bring my expertise in various Javascript libraries and several style guides to my team.",
+            "When I am not working I love to travel and make some music. I have been into music for quite a while and traveling is my new passion."
+        ]
+    },
+    "exp_sec": {
+        "header": "Experience",
+        "list": [
+            {
+                "designation": "Senior Systems Engineer",
+                "duration": "Jan 2017 - Present",
+                "company_icon": "./assets/Infosys.png",
+                "responsibility": [
+                    "Working as Front-End Developer for the Cognitive platform of Infosys. ",
+                    "Working as FullStack Developer for Gamification platform of Infosys and leading the UI Design team. ",
+                    "Working as SME in Gamification design and strategies.  ",
+                    "Working on ideation and formulation of the solution related to RFP."
+                ]
+            },
+            {
+                "designation": "Systems Engineer",
+                "duration": "Jan 2015 - Dec 2016",
+                "company_icon": "./assets/Infosys.png",
+                "responsibility": [
+                    "Working as a Full-stack web developer as part of Gamification Platform team.",
+                    "Working on various client POC and POV and solutionizing them.",
+                    "Working on solutionizing No SQL based backend for the product along with product architect team.",
+                    "Work as a go-to guy when it comes to new technology in UI Design and development."
+                ]
+            },
+            {
+                "designation": "Engineer Intern",
+                "duration": "Sep 2014 - Dec 2014",
+                "company_icon": "./assets/Infosys.png",
+                "responsibility": [
+                    "Learning enterprise application development with .NET"
+                ]
+            }
+        ]
+    },
+    "skill_sec": {
+        "header": "Technical Skills",
+        "skillSet": [
+            {
+                "name": "HTML5",
+                "rate": 8.5
+            },
+            {
+                "name": "JavaScript",
+                "rate": 9.2
+            },
+            {
+                "name": "AngularJS",
+                "rate": 8.5
+            },
+            {
+                "name": "TypeScript",
+                "rate": 8.6
+            },
+            {
+                "name": "JQuery",
+                "rate": 6
+            },
+            {
+                "name": "CSS3",
+                "rate": 7.5
+            },
+            {
+                "name": "Material Design",
+                "rate": 8.75
+            },
+            {
+                "name": "Bootstrap",
+                "rate": 8.75
+            },
+            {
+                "name": ".NET",
+                "rate": 7.6
+            },
+            {
+                "name": "MongoDB",
+                "rate": 7.5
+            },
+            {
+                "name": "SQL",
+                "rate": 7.5
+            },
+            {
+                "name": "Python",
+                "rate": 5.5
+            }
+        ]
+    },
+    "edu_sec": {
+        "header": "Education",
+        "list": [
+            {
+                "name": "Hindustan Institute of Technology and Management",
+                "course": "Bachelor of Technology in ECE",
+                "major_list": [
+                    "Head College Cultural Society",
+                    "Member and later Head of Event Management Group",
+                    "Campus Ambassador TechKriti'14 IIT Kanpur",
+                    "Drummer in College Bands Raag and Sankramak"
+                ]
+            },
+            {
+                "name": "M.M. Sr. Sec. Public School",
+                "course": "Senior Secondary & Secondary Examinations",
+                "major_list": [
+                    "Member Debate Club",
+                    "Member Music Club",
+                    "Member Event Management Team",
+                    "Drummer in school band"
+                ]
+            }
+        ]
+    },
+    "ach_sec": {
+        "header": "Professional Achievements",
+        "list": [
+            {
+                "name": "Infosys Award for Excellence",
+                "time": "Feb'2017",
+                "desc": "The prestigious Infosys Award for Excellence - Silver was won by our team for our contribution in Developing and Commercializing in-house Gamification Platform."
+            },
+            {
+                "name": "Infosys Extra Miller Award",
+                "time": "Feb'2016",
+                "desc": "Infosys Extra Miller Award - Bronze was won by me for my continuous effort to bring necessary innovation within the capacity of Front End Developer."
+            }
+        ]
+    },
+    "hob_sec": {
+        "header": "Hobbies",
+        "list": [
+            {
+                "cls": "fa fa-4x fa-code",
+                "color": "yellowgreen"
+            },
+            {
+                "cls": "fa fa-4x fa-music",
+                "color": "cadetblue"
+            },
+            {
+                "cls": "fa fa-4x fa-book",
+                "color": "tomato"
+            },
+            {
+                "cls": "fa fa-4x fa-motorcycle",
+                "color": "#74b054"
+            },
+            {
+                "cls": "fa fa-4x fa-film",
+                "color": "steelblue"
+            }
+        ]
+    }
+}
