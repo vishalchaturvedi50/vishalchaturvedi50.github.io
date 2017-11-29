@@ -1,0 +1,24 @@
+{
+    "short_name": "VC:Profile",
+    "name": "Vishal Chaturvedi Profile",
+    "icons": [
+        {
+            "src": "./assets/icons/vishal_24.ico",
+            "type": "image/ico",
+            "sizes": "24x24"
+        },
+        {
+            "src": "./assets/icons/vishal_64.ico",
+            "type": "image/ico",
+            "sizes": "64x64"
+        },
+        {
+            "src": "./assets/icons/vishal_!28.ico",
+            "type": "image/ico",
+            "sizes": "128x128"
+        }
+    ],
+    "background_color": "#2196F3",
+    "display": "standalone",
+    "orientation": "landscape"
+}
