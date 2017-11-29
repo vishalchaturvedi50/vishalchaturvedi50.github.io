@@ -23,9 +23,19 @@
             "sizes": "64x64"
         },
         {
-            "src": "./assets/icons/vishal_!28.ico",
+            "src": "./assets/icons/vishal_128.ico",
             "type": "image/ico",
             "sizes": "128x128"
+        },
+        {
+            "src": "./assets/icons/vishal_192.ico",
+            "type": "image/ico",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./assets/icons/vishal_256.ico",
+            "type": "image/ico",
+            "sizes": "256x256"
         }
     ],
     "background_color": "#2196F3",
